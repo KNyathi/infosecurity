@@ -1,0 +1,8 @@
+
+What is Information Security (InfoSec)?
+
+Information security (sometimes referred to as InfoSec) covers the tools and processes that organizations use to protect information. This includes policy settings that prevent unauthorized people from accessing business or personal information. InfoSec is a growing and evolving field that covers a wide range of fields, from network and infrastructure security to testing and auditing.
+
+Information security protects sensitive information from unauthorized activities, including inspection, modification, recording, and any disruption or destruction. The goal is to ensure the safety and privacy of critical data such as customer account details, financial data or intellectual property.
+
+The consequences of security incidents include theft of private information, data tampering, and data deletion. Attacks can disrupt work processes and damage a company’s reputation, and also have a tangible cost.
